@@ -49,7 +49,7 @@ df2 = spark.createDataFrame([
     ('id_cliente-8',  'cat-7, cat-9, cat-12, cat-13, cat-14'),
     ('id_cliente-9',  'cat-2'),
     ('id_cliente-10', 'cat-1, cat-2, cat-3, cat-4, cat-5, cat-6, cat-7, cat-8, cat-10')
-], ['client-id', 'categorias'])
+], ['id_cliente', 'categorias'])
 ```
 
 - Calcular tempo:
