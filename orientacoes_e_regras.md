@@ -11,7 +11,6 @@
    - Times devem ter até 6 alunos.
    - Cada time vai ter um representante que irá criar ou utilizar um email específico para receber uma conta temporária da AWS.
    - A conta AWS permanecerá ativa apenas até a finalização da batalha de dados, depois será removida.
-   - Cada time pode fazer até 3 perguntas abertas, compartilhando com toda a turma, e pode fazer até 3 perguntas diretas para o professor.
    - A definição do melhor time levará em consideração o trabalho apresentado de forma geral, custos de AWS, conceitos aplicados, execução, quantidade de perguntas realizadas, qualidade da conclusão das tarefas solicitadas e trabalho em equipe.
    - Os entregáveis da batalha de dados são: 
      1) apresentação em formato pdf / ppt / notebooks (Zeppelin ou Juypyter, outros) apresentando os fluxos dos dados, conceitos e atividades realizadas. 
