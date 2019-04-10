@@ -8,7 +8,7 @@
    - Não utilizem serviços na AWS que não sejam diretamente necessários para resolver as tarefas.
 
 ## Regras:
-   - Times devem ter até 5 alunos.
+   - Times devem ter até 6 alunos.
    - Cada time vai ter um representante que irá criar ou utilizar um email específico para receber uma conta temporária da AWS.
    - A conta AWS permanecerá ativa apenas até a finalização da batalha de dados, depois será removida.
    - Cada time pode fazer até 3 perguntas abertas, compartilhando com toda a turma, e pode fazer até 3 perguntas diretas para o professor.
