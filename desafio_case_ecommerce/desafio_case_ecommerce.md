@@ -165,7 +165,7 @@
    - Apresentar um mapa de calor (Heat map) de acessos por Trafficfrom e Url.
   
  ### Tarefas 4 - Dashboard Near Real Time no Kibana:
-   #### Tarefa 5.1 - Visualização de visitante unicos no Kibana:
+   #### Tarefa 4.1 - Visualização de visitante unicos no Kibana:
    - Desenvolva um Dashboard no Kibana, apresentando a quantidade de visitantes unicos navegando no ecommerce ao longo do tempo.
  
  
