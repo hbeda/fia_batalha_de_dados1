@@ -164,21 +164,7 @@
   #### Tarefa 3.2 - Heat Map:
    - Apresentar um mapa de calor (Heat map) de acessos por Trafficfrom e Url.
   
-  #### Tarefa 3.3 - Insights:
-   - Apresentar até dois insights com gráficos e análises que possam ser reveladores ou muitos interessantes para os executivos, gestores ou especialistas de negócios da empresa de ecommerce.   
-   
- ### Tarefas 4 - Processamento Near Real Time:
-   - Ler os dados em near real time diretamente Kinesis Streams utilizando ferramentas de streaming/microbatching. 
-   #### Tarefa 4.1 - Usuarios unicos com janelas de 15 segundos:
-   - Processar quantos usuários unicos navegam nas URLs, apresentando resultados com janelas de 15 segundos.
-   
-   #### Tarefa 4.2 - Usuarios unicos com janelas de 1 minuto:
-   - Processar quantos usuários unicos navegam nas URLs, apresentando resultados com janelas de 1 minuto.
-   
-   #### Tarefa 4.3 - Paginas de origem (trafficfrom) mais utilizadas com janelas de 1 minuto:
-   - Processar quais são as páginas de origem mais utilizadas com janelas de 1 minuto.
-   
- ### Tarefas 5 - Dashboard Near Real Time no Kibana:
+ ### Tarefas 4 - Dashboard Near Real Time no Kibana:
    #### Tarefa 5.1 - Visualização de visitante unicos no Kibana:
    - Desenvolva um Dashboard no Kibana, apresentando a quantidade de visitantes unicos navegando no ecommerce ao longo do tempo.
  
